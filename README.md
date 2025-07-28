@@ -13,11 +13,11 @@
 - 📘 Atualmente aprendendo: `C`, `HTML`, `CSS`, `JavaScript` e `lógica de programação`
 - 🎯 Foco em me tornar desenvolvedor full-stack
 - 📚 Em constante aprendizado e evolução
-- 📍 Localização: Brasil | Fuso horário: GMT-3
+- 📍 Localização: Foz do Iguaçu - Brasil | Fuso horário: GMT-3
 
 ---
 
-### 🧠 Tecnologias que estou estudando
+### 🧠 Linguagens que estou estudando
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
