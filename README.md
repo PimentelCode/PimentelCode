@@ -37,7 +37,7 @@
 
 ### 📫 Onde me encontrar
 
-- 🎥 Instagram: [@pimentel.videos](https://instagram.com/pimentel.videos)
+- 🎥 Instagram: [@pimentel.code](https://instagram.com/pimentel.code)
 - 📬 Email: [joaovitorpereirapimentel@hotmail.com](mailto:joaovitorpereirapimentel@hotmail.com)
 
 ---
