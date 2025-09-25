@@ -13,7 +13,7 @@
 ## 🎓 Formação Acadêmica
 
 **Análise e Desenvolvimento de Sistemas** | 1º Período  
-*Descomplica UniAmérica* | 2024 - 2026
+*Descomplica UniAmérica* | 2025 - 2026
 
 ---
 
