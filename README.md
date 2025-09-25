@@ -43,16 +43,25 @@
 
 ## 🎯 Objetivos & Foco
 
-```javascript
-const joaoVitor = {
-  currentFocus: "Desenvolvimento Full-Stack",
-  learning: ["JavaScript", "C", "HTML/CSS", "Logica de Programacao"],
-  goals: ["Primeira oportunidade como dev", "Projetos open-source"],
-  location: "Foz do Iguacu, PR - Brasil",
-  timezone: "GMT-3",
-  mindset: "Sempre aprendendo, sempre evoluindo"
-};
-```
+<div align="center">
+
+### 💻 **Foco Atual**
+**Desenvolvimento Full-Stack**
+
+### 📚 **Estudando**
+`JavaScript` • `C` • `HTML/CSS` • `Lógica de Programação`
+
+### 🎯 **Objetivos**
+✅ Primeira oportunidade como desenvolvedor  
+✅ Contribuir em projetos open-source
+
+### 📍 **Localização**
+**Foz do Iguaçu, PR - Brasil** 🇧🇷 | **GMT-3**
+
+### 💡 **Mentalidade**
+*"Sempre aprendendo, sempre evoluindo"* 🚀
+
+</div>
 
 ---
 
