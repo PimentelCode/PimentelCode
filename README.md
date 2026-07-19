@@ -67,8 +67,8 @@ Desenvolvo **sites, plataformas web e automações inteligentes** para negócios
 <!-- AJUSTE 1: troque REPO_1 e REPO_2 pelos nomes reais dos seus repositórios -->
 <div align="center">
 
-[![Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=PimentelCode&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/PimentelCode/REPO_1)
-[![Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=PimentelCode&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/PimentelCode/REPO_2)
+[![Projeto 1]([https://github-readme-stats.vercel.app/api/pin/?username=PimentelCode&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/PimentelCode/REPO_1](https://pimentelcode.com.br/portfolio))
+[![Projeto 2][(https://github-readme-stats.vercel.app/api/pin/?username=PimentelCode&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/PimentelCode/REPO_2](https://controle-financeiro-plum-six.vercel.app))
 
 </div>
 
@@ -99,11 +99,11 @@ Desenvolvo **sites, plataformas web e automações inteligentes** para negócios
 Respondo rápido no WhatsApp e no Instagram.
 
 <!-- AJUSTE 2: coloque seu número no formato 5545999999999 -->
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/SEUNUMERO)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5545999593496)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pimentel.code)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorpereirapimentel@hotmail.com)
 <!-- AJUSTE 3: cole a URL do seu perfil no LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-da-rosa-pimentel-881665304/)
 
 </div>
 
