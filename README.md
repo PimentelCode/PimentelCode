@@ -1,8 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=PimentelCode&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Sites,%20Sistemas%20e%20Automações%20com%20IA&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=PimentelCode&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Sites%20%C2%B7%20Sistemas%20%C2%B7%20Automa%C3%A7%C3%B5es%20com%20IA&descAlignY=56&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Desenvolvedor+Web+Full-Stack;Landing+Pages+de+Alta+Convers%C3%A3o;Automa%C3%A7%C3%B5es+e+Agentes+de+IA;Arquitetura+SaaS+e+Integra%C3%A7%C3%B5es)](https://github.com/PimentelCode)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+%7C+IA+%26+Automa%C3%A7%C3%A3o;Landing+Pages+de+Alta+Convers%C3%A3o;Agentes+de+IA+que+trabalham+por+voc%C3%AA;SaaS+do+zero+ao+deploy;console.log(%22Bora+automatizar%3F%22))](https://pimentelcode.com.br)
+
+[![Status](https://img.shields.io/badge/Status-Aceitando%20projetos-22c55e?style=for-the-badge)](https://wa.me/5545999593496)
+[![Site](https://img.shields.io/badge/pimentelcode.com.br-0D1117?style=for-the-badge&logo=googlechrome&logoColor=36BCF7)](https://pimentelcode.com.br)
+![Local](https://img.shields.io/badge/Foz%20do%20Igua%C3%A7u-PR%20%C2%B7%20GMT--3-0D1117?style=for-the-badge&logo=googlemaps&logoColor=36BCF7)
 
 </div>
 
@@ -10,15 +14,36 @@
 
 <div align="center">
 
-### Transformo processos manuais em sistemas que rodam sozinhos.
+### ⚡ Transformo processos manuais em sistemas que rodam sozinhos.
 
-Desenvolvo **sites, plataformas web e automações inteligentes** para negócios que querem escalar sem aumentar equipe.
+Desenvolvo **sites, plataformas web e automações inteligentes** para negócios que querem escalar **sem aumentar a equipe**.
 
 </div>
 
 ---
 
-## O que eu construo
+## 🧠 `$ whoami`
+
+```ts
+const pimentel = {
+  role: "Full-Stack Developer & Automation Engineer",
+  location: "Foz do Iguaçu, PR · GMT-3",
+  stack: {
+    frontend:   ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    backend:    ["Node.js", "Python", "Supabase", "PostgreSQL"],
+    automation: ["n8n", "WhatsApp", "Instagram Graph API", "Webhooks"],
+    ai:         ["Agentes de IA", "OpenAI", "Gemini", "Groq", "Claude"],
+    infra:      ["Vercel", "Docker", "VPS Linux"],
+  },
+  currentFocus: "SaaS + agentes de IA que executam tarefas reais",
+  motto: "fez a mesma coisa 2x? vira automação.",
+  available: true,
+} as const;
+```
+
+---
+
+## 🛠️ O que eu construo
 
 | | Serviço | Entrega |
 |:---:|:---|:---|
@@ -30,80 +55,174 @@ Desenvolvo **sites, plataformas web e automações inteligentes** para negócios
 
 ---
 
-## Stack Tecnológica
+## 💻 Stack Tecnológica
 
 <div align="center">
 
 **Front-end**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![Front-end](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,vue,html,css&theme=dark)](https://skillicons.dev)
 
 **Back-end & Dados**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+[![Back-end](https://skillicons.dev/icons?i=nodejs,python,supabase,postgres,firebase&theme=dark)](https://skillicons.dev)
 
-**Automação & Deploy**
+**Infra & Ferramentas**
+
+[![Infra](https://skillicons.dev/icons?i=vercel,docker,linux,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+**Automação & IA**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </div>
 
 ---
 
-## Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-<!-- AJUSTE 1: troque REPO_1 e REPO_2 pelos nomes reais dos seus repositórios -->
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ DictaFlow
+App desktop de **ditado por voz com IA**: transcreve, corrige e digita sozinho na janela ativa.
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+
+[**▶ Ver ao vivo**](https://dictaflow-v2.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Automação WhatsApp
+Disparo **personalizado** para leads de imobiliária a partir de planilha Excel, com sessão em cache e retry inteligente.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+[**⌨ Código**](https://github.com/PimentelCode/Automacao-WhatsApp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Controle Financeiro
+App desktop de finanças pessoais: **parcelamento semanal**, múltiplos perfis, dashboard e backup automático.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[**▶ Ver ao vivo**](https://controle-financeiro-plum-six.vercel.app) · [**⌨ Código**](https://github.com/PimentelCode/controle-financeiro)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 NFC Automa
+Site de produto para **tags NFC** prontas e testadas.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[**▶ Ver ao vivo**](https://nfc-automa.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 VCar Veículos
+Site institucional para **revenda de veículos**.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[**▶ Ver ao vivo**](https://vcarveiculos.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Central de Direitos do Consumidor
+Ferramenta web de **apoio rápido** ao cidadão brasileiro em situações de dificuldade.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+[**▶ Ver ao vivo**](https://central-de-direitos-do-consumidor.vercel.app) · [**⌨ Código**](https://github.com/PimentelCode/Central-de-Direitos-do-Consumidor)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-[![Projeto 1]([https://github-readme-stats.vercel.app/api/pin/?username=PimentelCode&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/PimentelCode/REPO_1](https://pimentelcode.com.br/portfolio))
-[![Projeto 2][(https://github-readme-stats.vercel.app/api/pin/?username=PimentelCode&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/PimentelCode/REPO_2](https://controle-financeiro-plum-six.vercel.app))
+[![Portfólio completo](https://img.shields.io/badge/Ver%20portf%C3%B3lio%20completo-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pimentelcode.com.br)
 
 </div>
 
 ---
 
-## GitHub
+## 🔄 Como eu trabalho
+
+```mermaid
+flowchart LR
+    A([💬 Briefing]) --> B[🎨 Design]
+    B --> C[⚙️ Desenvolvimento]
+    C --> D[🧪 Testes]
+    D --> E[🚀 Deploy]
+    E --> F([📈 Suporte & Evolução])
+    F -. novas ideias .-> A
+```
+
+---
+
+## 📊 Atividade
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PimentelCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PimentelCode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=PimentelCode.PimentelCode&left_text=Visitas&left_color=0D1117&right_color=36BCF7)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PimentelCode/PimentelCode/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PimentelCode/PimentelCode/output/github-snake.svg" />
+  <img alt="Snake comendo as contribuições" src="https://raw.githubusercontent.com/PimentelCode/PimentelCode/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
 
-## Formação
+## 🎓 Formação
 
-**Análise e Desenvolvimento de Sistemas** — Descomplica UniAmérica | 2025 – 2026  
+**Análise e Desenvolvimento de Sistemas** — Descomplica UniAmérica | 2025 – 2026<br>
 📍 Foz do Iguaçu, PR — Brasil · GMT-3
 
 ---
 
 <div align="center">
 
-## Vamos conversar sobre o seu projeto?
+## 📬 Vamos conversar sobre o seu projeto?
 
 Respondo rápido no WhatsApp e no Instagram.
 
-<!-- AJUSTE 2: coloque seu número no formato 5545999999999 -->
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5545999593496)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pimentel.code)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorpereirapimentel@hotmail.com)
-<!-- AJUSTE 3: cole a URL do seu perfil no LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-da-rosa-pimentel-881665304/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-da-rosa-pimentel-881665304/)
+[![Site](https://img.shields.io/badge/Site-0D1117?style=for-the-badge&logo=googlechrome&logoColor=36BCF7)](https://pimentelcode.com.br)
 
 </div>
 
