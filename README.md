@@ -24,23 +24,11 @@ Desenvolvo **sites, plataformas web e automações inteligentes** para negócios
 
 ## 🧠 Sobre mim
 
-```ts
-// $ whoami
-const pimentel = {
-  role: "Full-Stack Developer & Automation Engineer",
-  location: "Foz do Iguaçu, PR · GMT-3",
-  stack: {
-    frontend:   ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    backend:    ["Node.js", "Python", "Supabase", "PostgreSQL"],
-    automation: ["n8n", "WhatsApp", "Instagram Graph API", "Webhooks"],
-    ai:         ["Agentes de IA", "OpenAI", "Gemini", "Groq", "Claude"],
-    infra:      ["Vercel", "Docker", "VPS Linux"],
-  },
-  currentFocus: "SaaS + agentes de IA que executam tarefas reais",
-  motto: "fez a mesma coisa 2x? vira automação.",
-  available: true,
-} as const;
-```
+<div align="center">
+
+<img src="assets/whoami.svg" width="100%" alt="Terminal whoami: Pimentel.code, Full-Stack Developer e Automation Engineer em Foz do Iguaçu. Stack: Next.js, React, TypeScript, Tailwind, Node.js, Python, Supabase, PostgreSQL, n8n, WhatsApp, Instagram Graph API, OpenAI, Gemini, Groq, Claude, Vercel, Docker. Foco: SaaS e agentes de IA. Status: disponível para novos projetos." />
+
+</div>
 
 ---
 
