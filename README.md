@@ -22,9 +22,10 @@ Desenvolvo **sites, plataformas web e automações inteligentes** para negócios
 
 ---
 
-## 🧠 `$ whoami`
+## 🧠 Sobre mim
 
 ```ts
+// $ whoami
 const pimentel = {
   role: "Full-Stack Developer & Automation Engineer",
   location: "Foz do Iguaçu, PR · GMT-3",
